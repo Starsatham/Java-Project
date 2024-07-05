@@ -11,6 +11,6 @@ HOW TO RUN
 
 | 4. i) Install java and set the environment path
      ii) Install java framework on Springboot(STS)
-     iii) open Springboot and import the Java project file, then rum the application and visit the localhost:8080
+     iii) open Springboot and import the Java project file, then run the application and visit the localhost:8080
 
 | 5. Run the project |

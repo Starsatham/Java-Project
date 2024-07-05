@@ -3,7 +3,7 @@ HOW TO RUN
 | Step | Description | Example |
 |—|—|—|
 
-| 1. Clone the  repository | Copy the  repository URL and paste it into the command line. | `git clone https://github.com/username/project.git` |
+| 1. Clone the  repository | Copy the  repository URL and paste it into the command line. | `git clone https://github.com/Starsatham/Java-Project.git` |
 
 | 2. Change directory to the project folder | Use the `cd` command to change directory to the project folder. | `cd project` |
 
